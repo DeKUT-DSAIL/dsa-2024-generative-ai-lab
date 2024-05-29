@@ -22,7 +22,7 @@ Tuesday - 4th June 2024
 
 - Variational Autoencoders : theory (30 min)
 - Variational Autoencoders : [laboratory](https://colab.research.google.com/drive/1pCLdsbPlCCDvB1QNlQ0RtrRvaS3gomcC?usp=sharing) (90 min)
--  Dataset : MNIST
+-  Dataset : MNIST (in code)
 
 
 Background
