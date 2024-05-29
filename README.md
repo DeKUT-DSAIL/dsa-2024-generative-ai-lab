@@ -28,7 +28,7 @@ Background
 - Short Lecture on Neural Networks : [link to ppt]()
 - PyTorch Basics : labs and solutions
 
-Advanced lab
+Advanced lab (EXTRA)
 
 - Generative Adversarial Networks (30 min) : theory
 - Generative Adversarial Networks (45 min) : [laboratory](https://colab.research.google.com/drive/1yMYEqopNNsJuadzhb9_a4k9AYPBjfO_P?usp=sharing)
