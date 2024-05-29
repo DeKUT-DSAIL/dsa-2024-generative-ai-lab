@@ -4,7 +4,7 @@ Lecture Plan: Deep Generative AI
 
 Tuesday - 4th June 2024
 
-9:00 am - 10:30 am:
+9:00 am - 10:30 am: Morning Lecture Session 
 
 - [General Introduction](https://docs.google.com/presentation/d/136MO2UkS4Qqt-K7nIoEB-fK1A3uz5TCe/edit?usp=sharing&ouid=112539102430690321792&rtpof=true&sd=true)
   
@@ -18,7 +18,7 @@ Tuesday - 4th June 2024
 
           5. Q/A Session
 
-11:00 am - 13:00 pm:
+11:00 am - 13:00 pm: Lab Session
 
 - Variational Autoencoders : theory (30 min)
 - Variational Autoencoders : [laboratory](https://colab.research.google.com/drive/1pCLdsbPlCCDvB1QNlQ0RtrRvaS3gomcC?usp=sharing) (90 min)
@@ -27,4 +27,13 @@ Tuesday - 4th June 2024
 Background
 - Short Lecture on Neural Networks : [link to ppt]()
 - PyTorch Basics : labs and solutions
-   
+
+Advanced lab
+
+- Generative Adversarial Networks (30 min) : theory
+- Generative Adversarial Networks (45 min) : [laboratory](https://colab.research.google.com/drive/1yMYEqopNNsJuadzhb9_a4k9AYPBjfO_P?usp=sharing)
+
+
+Solutions will be provided after the lab session
+
+
