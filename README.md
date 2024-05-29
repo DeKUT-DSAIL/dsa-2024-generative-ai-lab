@@ -7,10 +7,15 @@ Tuesday - 4th June 2024
 9:00 am - 10:30 am:
 
 - [General Introduction](https://docs.google.com/presentation/d/136MO2UkS4Qqt-K7nIoEB-fK1A3uz5TCe/edit?usp=sharing&ouid=112539102430690321792&rtpof=true&sd=true)
+  
           1. Introduction to Generative AI
+
           2. Math Basics
+
           3. Generative AI models
+
           4. Applications
+
           5. Q/A Session
 
 11:00 am - 13:00 pm:
