@@ -33,7 +33,7 @@ Advanced lab (EXTRA)
 
 - Generative Adversarial Networks (30 min) : theory
 - Generative Adversarial Networks (45 min) : [laboratory](https://colab.research.google.com/drive/1yMYEqopNNsJuadzhb9_a4k9AYPBjfO_P?usp=sharing)
-- Dataset : [emojis.zip]()
+- Dataset : [emojis.zip](https://github.com/DeKUT-DSAIL/dsa-2024-generative-ai-lab/blob/main/emojis.zip)
 
 
 Solutions will be provided after the lab session
