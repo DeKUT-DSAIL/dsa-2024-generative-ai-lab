@@ -38,4 +38,5 @@ Advanced lab (EXTRA)
 
 Solutions will be provided after the lab session
 
-
+- [Variational Autoencoders solution]()
+- [Generative Adversarial Networks]()
