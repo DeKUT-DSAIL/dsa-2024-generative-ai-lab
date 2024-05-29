@@ -25,7 +25,7 @@ Tuesday - 4th June 2024
 
 
 Background
-- Short Lecture on Neural Networks : [link to ppt]()
+- Short Lecture on Neural Networks : [link to ppt](https://github.com/DeKUT-DSAIL/dsa-2024-generative-ai-lab/blob/main/NN%20Short%20Intro.pptx)
 - PyTorch Basics : labs and solutions
 
 Advanced lab (EXTRA)
