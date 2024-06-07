@@ -43,4 +43,4 @@ Solutions will be provided after the lab session
 
 
 Talk at Workshop
-- [AI for Monitoring Mental Health](https://drive.google.com/file/d/1VfVm4F_A9KSAwzpLwOjeFmD5AYxkfDMQ/view?usp=sharing))
+- [AI for Monitoring Mental Health](https://drive.google.com/file/d/1VfVm4F_A9KSAwzpLwOjeFmD5AYxkfDMQ/view?usp=sharing)
