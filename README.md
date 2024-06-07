@@ -40,3 +40,7 @@ Solutions will be provided after the lab session
 
 - [Variational Autoencoders solution](https://colab.research.google.com/drive/14fCH88W4tdh8xL2RlxAgzWMcCWLsbdIU?usp=sharing)
 - [Generative Adversarial Networks solution](https://colab.research.google.com/drive/1D1_xaZ5LqhuWWZcOoK3rsrqYPlgk-Ce7?usp=sharing)
+
+
+Talk at Workshop
+- [AI for Monitoring Mental Health](https://drive.google.com/file/d/1VfVm4F_A9KSAwzpLwOjeFmD5AYxkfDMQ/view?usp=sharing))
